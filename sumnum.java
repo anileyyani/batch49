@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class sumnum {
 
+// find the sum of series of numbers
     public static void main(String[] args) {
 
 
